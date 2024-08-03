@@ -9,4 +9,6 @@
 9. git push: memindahkan projek dari folder ke github
 10. git push --set-upstream origin main: Bolehin branch buat koneksi ke github
 11. cd .. : Kembali ke direktori sebelumnya
-12. rm -rf: Hapus direktori
+12. rm -rf: Hapus direktori dan file
+13. code . : Buka vscode
+14. ls : Cek direktori dan file
