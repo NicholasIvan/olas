@@ -1,0 +1,11 @@
+- Apa itu class diagram
+- Class diagram adalah salah satu jenis diagram pada UML yang menggambarkan dengan jelas struktur serta deskripsi kelas, atribut, metode dan hubungan dari setiap objek.
+- Contoh: Kelas Segitiga = Alas, tinggi, rumus, hasil rumus
+- Atribut: Nilai/Integer  Metode: Proses
+- Contoh: Persegi Panjang = Panjang, lebar, rumus, hasil rumus
+- Contoh: Aplikasi MyBCA = Login: Username & Password
+- Atribut = Username: Huruf & angka  Password: Huruf & angka  Proses: Masuk
+- Manusia = Atribut: Nama, Umur, Emosi, Personalitas
+- Binatang Peliharaan Anjing = Atribut: Binatang, Berkaki Empat, Berekor
+- Atribut: Jika dipisah bukan hal aslinya.
+- Mobil: 

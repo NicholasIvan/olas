@@ -12,3 +12,9 @@
 12. rm -rf: Hapus direktori dan file
 13. code . : Buka vscode
 14. ls : Cek direktori dan file
+15. g++ "nama file".cpp -o "nama file" : Compile code, eksekusi kode untuk ngecek benar atau tidak.
+16. ./"nama file" : running program, menjalani program setelah dicek.
+17. <<endl : turunin bagian text.
+18. int main : penempatan program.
+19. include : penghubung program, memberi arti ke program.
+20. iostream : panggil library, library adalah fungsional yang harus dipenuhi.
