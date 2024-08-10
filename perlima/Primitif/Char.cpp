@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
-    cout<<"test"<<endl;
-    cout<<"Halo";
+    char kata='a';
+    cout<<kata;
+    return 0;
 }
