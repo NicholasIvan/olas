@@ -19,7 +19,7 @@ int main(){
 //tampilkan data
     cout<<"List Data: \n";
     for (int i = 0; i < 3; i++){
-        cout << "Nama : " << data[i].nama << " Nama : " << data[i].nilai <<endl;
+        cout << "Nama : " << data[i].nama << " Nilai : " << data[i].nilai <<endl;
     }
     return 0;
 }

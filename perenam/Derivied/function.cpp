@@ -34,8 +34,8 @@ int main(){
     hasiltambah = tambah(1, 2);
     hasilkurang = kurang(2, 1);
     
-    cout << hasiltambah;
-    cout << hasilkurang;
+    cout << hasiltambah << endl;
+    cout << hasilkurang << endl;
     bagi();
     return 0;
 }
