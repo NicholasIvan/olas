@@ -18,3 +18,6 @@
 18. int main : penempatan program.
 19. include : penghubung program, memberi arti ke program.
 20. iostream : panggil library, library adalah fungsional yang harus dipenuhi.
+21. Selection Statement_Pemilihan: if else, switch case
+22. Iteration Statement_Pengulangan: while, do while, for
+23. Jump Statement_Pemilihan tertentu: break, goto, continue
